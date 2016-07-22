@@ -1,0 +1,11 @@
+Debugging JavaFerret.exe Fri Jul 08 08:53:50 AM
+
+
+Begin echoMouseObject()
+IsJavaWindow(70B84)=1 [8016]
+End echoMouseObject() [4000]
+ 
+Begin echoMouseObject()
+IsJavaWindow(70B84)=1 [8000]
+End echoMouseObject() [4015]
+ 

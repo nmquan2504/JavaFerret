@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JavaFerret", "JavaFerret\JavaFerret.vcxproj", "{BC48CC97-2190-41D3-8405-1406056B815B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Launcher", "Launcher\Launcher.vcxproj", "{C0670619-7B0A-4E1A-B5E2-E329976C0FDB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinHook", "WinHook\WinHook.vcxproj", "{49BFB749-515E-4035-92E8-E7B8A611C7B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC48CC97-2190-41D3-8405-1406056B815B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC48CC97-2190-41D3-8405-1406056B815B}.Debug|Win32.Build.0 = Debug|Win32
+		{BC48CC97-2190-41D3-8405-1406056B815B}.Release|Win32.ActiveCfg = Release|Win32
+		{BC48CC97-2190-41D3-8405-1406056B815B}.Release|Win32.Build.0 = Release|Win32
+		{C0670619-7B0A-4E1A-B5E2-E329976C0FDB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C0670619-7B0A-4E1A-B5E2-E329976C0FDB}.Debug|Win32.Build.0 = Debug|Win32
+		{C0670619-7B0A-4E1A-B5E2-E329976C0FDB}.Release|Win32.ActiveCfg = Release|Win32
+		{C0670619-7B0A-4E1A-B5E2-E329976C0FDB}.Release|Win32.Build.0 = Release|Win32
+		{49BFB749-515E-4035-92E8-E7B8A611C7B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49BFB749-515E-4035-92E8-E7B8A611C7B8}.Debug|Win32.Build.0 = Debug|Win32
+		{49BFB749-515E-4035-92E8-E7B8A611C7B8}.Release|Win32.ActiveCfg = Release|Win32
+		{49BFB749-515E-4035-92E8-E7B8A611C7B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
